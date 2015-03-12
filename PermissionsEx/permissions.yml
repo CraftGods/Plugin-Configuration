@@ -1,8 +1,8 @@
 groups:
-  Recruit:
+  LostSoul:
     options:
       rank: '1000'
-      prefix: '&8[&7Recruit&8]&f '
+      prefix: '[LostSoul] '
       suffix: '&7'
       default: true
     permissions:
@@ -41,10 +41,10 @@ groups:
     - towny.wild.*
     - towny.chat.*
     - -towny.chat.admin
-  Private:
+  Mortal:
     options:
       rank: '900'
-      prefix: '&8[&ePrivate&8]&f '
+      prefix: '[Mortal] '
       suffix: '&7'
     permissions:
     - essentials.warp.list
@@ -59,29 +59,29 @@ groups:
     - essentials.ignore
     - essentials.afk
     inheritance:
-    - Recruit
-  Corporal:
+    - LostSoul
+  Priest:
     options:
       rank: '800'
-      prefix: '&8[&aCorporal&8]&f '
+      prefix: '[Priest] '
       suffix: '&7'
     permissions:
     - essentials.sethome.multiple.10
     inheritance:
-    - Private
-  Sergeant:
+    - Mortal
+  HighPriest:
     options:
       rank: '700'
-      prefix: '&8[&2Sergeant&8]&f '
+      prefix: '[HighPriest] '
       suffix: '&7'
     permissions:
     - essentials.clearinventory
     inheritance:
-    - Corporal
-  Senior Sergeant:
+    - Priest
+  Hero:
     options:
       rank: '600'
-      prefix: '&8[&8Senior &2Sergeant&8]&f '
+      prefix: '[Hero] '
       suffix: '&7'
     permissions:
     - essentials.sethome.multiple.25
@@ -90,41 +90,43 @@ groups:
     - Signshop.Signs.*
     - Signshop.Permit
     inheritance:
-    - Sergeant
-  Lieutenent:
+    - HighPriest
+  Immortal:
     options:
       rank: '500'
-      prefix: '&8[&cLieutenent&8]&f '
+      prefix: '[Immortal] '
       suffix: '&7'
     permissions:
     - essentials.hat
     - essentials.back.ondeath
     - essentials.back
     inheritance:
-    - Senior Sergeant
-  Captain:
+    - Hero
+  #god has to be from a small letter, so don't change it.
+  Demi-god:
     options:
       rank: '400'
-      prefix: '&8[&4Captain&8]&f '
+      prefix: '[Demi-god] '
       suffix: '&7'
     permissions:
     - essentials.sethome.multiple.35
     - essentials.feed
     inheritance:
-    - Lieutenent
-  Major:
+    - Immortal
+  #Here start VIP ranks
+  god:
     options:
       rank: '300'
-      prefix: '&8[&3Major&8]&f '
+      prefix: '[god] '
       suffix: '&7'
     permissions:
     - essentials.heal
     inheritance:
-    - Captain
-  General:
+    - Demi-god
+  Titan:
     options:
       rank: '200'
-      prefix: '&8[&1General&8]&f '
+      prefix: '[Titan] '
       suffix: '&7'
     permissions:
     - essentials.sethome.multiple.50
@@ -132,12 +134,14 @@ groups:
     - essentials.repair
     - essentials.repair.enchanted
     inheritance:
-    - Major
+    - god
+  #Do we need this?
   Voter:
     inheritance:
     - Airman
     options:
       prefix: '&6[&5Voter&6]&f '
+  #From here are the old VIP ranks that are unneccesary, but we could move the perms.
   Airman:
     permissions:
     - essentials.kits.airman
@@ -178,6 +182,7 @@ groups:
     - Bigadier
     options:
       prefix: '&6[&5Marshal&6]&f '
+  #Here start stuff rak, we have to look into them but they should be fairly good.
   Helper:
     permissions:
     - Signshop.Admin.*
