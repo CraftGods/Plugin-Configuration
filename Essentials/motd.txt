@@ -1,4 +1,3 @@
-&6Welcome, {PLAYER}&6!
-&6Type &c/help&6 for a list of commands.
-&6Type &c/list&6 to see who else is online.
+&6Welcome, {PLAYER}&6 to &3CraftGods&6!
+&6Visit &awww.CraftGods.com&6 for cool information and coin redemption!
 &6Players online:&c {ONLINE} &6- World time:&c {WORLDTIME12}
