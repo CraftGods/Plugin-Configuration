@@ -1,0 +1,171 @@
+2015-03-10 22:57:24 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-03-10 22:57:25 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: 4965223176017539266
+2015-03-10 22:57:25 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-10 22:57:25 [WARNING] [Multiverse-Core] Original Location: X: 89 Y: 94 Z: -311 P: 0 Y: 0 
+2015-03-10 22:57:25 [INFO] [Multiverse-Core] New Spawn for 'world' is Located at: world:90.50,94.00,-310.50:0.00:0.00
+2015-03-10 22:57:25 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-7' - Env: TWILIGHTFOREST - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 22:57:25 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-10 22:57:25 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 33 Z: 0 P: 0 Y: 0 
+2015-03-10 22:57:26 [INFO] [Multiverse-Core] New Spawn for 'DIM-7' is Located at: DIM-7:2.50,33.00,1.50:0.00:0.00
+2015-03-10 22:57:58 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-100' - Env: UNDERDARK - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 22:57:58 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-10 22:57:58 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 81 Z: 0 P: 0 Y: 0 
+2015-03-10 22:57:58 [INFO] [Multiverse-Core] New Spawn for 'DIM-100' is Located at: DIM-100:1.50,82.00,0.50:0.00:0.00
+2015-03-10 22:58:16 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-34' - Env: DUNGEON - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 22:58:16 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-10 22:58:16 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0 
+2015-03-10 22:58:17 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-10 23:01:31 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-37' - Env: DREAMWORLD - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:01:42 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-38' - Env: TORMENT - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:01:42 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-10 23:01:42 [WARNING] [Multiverse-Core] Original Location: X: 8 Y: 14 Z: 8 P: 0 Y: 0 
+2015-03-10 23:01:43 [INFO] [Multiverse-Core] New Spawn for 'DIM-38' is Located at: DIM-38:9.50,16.00,8.50:0.00:0.00
+2015-03-10 23:01:49 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-42' - Env: OUTER - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:01:49 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-10 23:01:49 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+2015-03-10 23:01:49 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-10 23:01:52 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-19' - Env: BEDROCK - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:01:52 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-10 23:01:52 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 1 Z: 0 P: 0 Y: 0 
+2015-03-10 23:01:52 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-10 23:02:08 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-1' - Env: NETHER - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:02:08 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-10 23:02:08 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0 
+2015-03-10 23:02:08 [INFO] [Multiverse-Core] New Spawn for 'DIM-1' is Located at: DIM-1:1.50,65.00,-0.50:0.00:0.00
+2015-03-10 23:02:17 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM1' - Env: THE_END - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:02:17 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-10 23:02:17 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+2015-03-10 23:02:17 [INFO] [Multiverse-Core] New Spawn for 'DIM1' is Located at: DIM1:0.00,66.00,0.00:0.00:0.00
+2015-03-10 23:02:26 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: 4965223176017539266
+2015-03-10 23:02:26 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-7' - Env: TWILIGHTFOREST - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:02:26 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-100' - Env: UNDERDARK - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:02:26 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-34' - Env: DUNGEON - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:02:26 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-10 23:02:26 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0 
+2015-03-10 23:02:26 [INFO] [Multiverse-Core] New Spawn for 'DIM-34' is Located at: DIM-34:0.00,10.00,0.00:0.00:0.00
+2015-03-10 23:02:26 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-37' - Env: DREAMWORLD - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:02:26 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-38' - Env: TORMENT - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:02:26 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-42' - Env: OUTER - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:02:26 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-10 23:02:26 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+2015-03-10 23:02:26 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-10 23:02:26 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-19' - Env: BEDROCK - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:02:26 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-10 23:02:26 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 1 Z: 0 P: 0 Y: 0 
+2015-03-10 23:02:26 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-10 23:02:26 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-1' - Env: NETHER - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:02:26 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM1' - Env: THE_END - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:02:26 [INFO] [Multiverse-Core] 10 - World(s) loaded.
+2015-03-10 23:09:57 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-03-10 23:09:57 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: 4965223176017539266
+2015-03-10 23:09:57 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-7' - Env: TWILIGHTFOREST - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:09:58 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-100' - Env: UNDERDARK - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:10:00 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-34' - Env: DUNGEON - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:10:00 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-37' - Env: DREAMWORLD - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:10:01 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-38' - Env: TORMENT - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:10:02 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-42' - Env: OUTER - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:10:02 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-10 23:10:02 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+2015-03-10 23:10:02 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-10 23:10:03 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-19' - Env: BEDROCK - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:10:03 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-10 23:10:03 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 1 Z: 0 P: 0 Y: 0 
+2015-03-10 23:10:03 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-10 23:10:04 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-1' - Env: NETHER - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:10:05 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM1' - Env: THE_END - Type: NORMAL & seed: -2234987760399627530
+2015-03-10 23:10:05 [INFO] [Multiverse-Core] 10 - World(s) loaded.
+2015-03-11 01:19:15 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: 4965223176017539266
+2015-03-11 01:19:15 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-11 01:19:15 [WARNING] [Multiverse-Core] Original Location: X: 90 Y: 94 Z: -311 P: 0 Y: 0 
+2015-03-11 01:19:15 [INFO] [Multiverse-Core] New Spawn for 'world' is Located at: world:89.50,94.00,-309.50:0.00:0.00
+2015-03-11 01:19:15 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-7' - Env: TWILIGHTFOREST - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:19:15 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-100' - Env: UNDERDARK - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:19:17 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-34' - Env: DUNGEON - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:19:17 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-37' - Env: DREAMWORLD - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:19:18 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-38' - Env: TORMENT - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:19:18 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-42' - Env: OUTER - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:19:18 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-11 01:19:18 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+2015-03-11 01:19:19 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-11 01:19:19 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-19' - Env: BEDROCK - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:19:19 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-11 01:19:19 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 1 Z: 0 P: 0 Y: 0 
+2015-03-11 01:19:19 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-11 01:19:21 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-1' - Env: NETHER - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:19:21 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM1' - Env: THE_END - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:19:22 [INFO] [Multiverse-Core] 10 - World(s) loaded.
+2015-03-11 01:39:49 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-03-11 01:39:49 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: 4965223176017539266
+2015-03-11 01:39:49 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-11 01:39:49 [WARNING] [Multiverse-Core] Original Location: X: 89 Y: 94 Z: -310 P: 0 Y: 0 
+2015-03-11 01:39:49 [INFO] [Multiverse-Core] New Spawn for 'world' is Located at: world:89.50,94.00,-308.50:0.00:0.00
+2015-03-11 01:39:49 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-7' - Env: TWILIGHTFOREST - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:39:50 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-100' - Env: UNDERDARK - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:39:52 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-34' - Env: DUNGEON - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:39:52 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-37' - Env: DREAMWORLD - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:39:53 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-38' - Env: TORMENT - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:39:54 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-42' - Env: OUTER - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:39:54 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-11 01:39:54 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+2015-03-11 01:39:54 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-11 01:39:54 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-19' - Env: BEDROCK - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:39:54 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-11 01:39:54 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 1 Z: 0 P: 0 Y: 0 
+2015-03-11 01:39:54 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-11 01:39:56 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-1' - Env: NETHER - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:39:57 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM1' - Env: THE_END - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 01:39:57 [INFO] [Multiverse-Core] 10 - World(s) loaded.
+2015-03-11 18:14:21 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-03-11 18:14:21 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: 4965223176017539266
+2015-03-11 18:14:21 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-7' - Env: TWILIGHTFOREST - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 18:14:22 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-100' - Env: UNDERDARK - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 18:14:24 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-34' - Env: DUNGEON - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 18:14:24 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-37' - Env: DREAMWORLD - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 18:14:25 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-38' - Env: TORMENT - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 18:14:26 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-42' - Env: OUTER - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 18:14:26 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-11 18:14:26 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+2015-03-11 18:14:26 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-11 18:14:26 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-19' - Env: BEDROCK - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 18:14:26 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-11 18:14:26 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 1 Z: 0 P: 0 Y: 0 
+2015-03-11 18:14:26 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-11 18:14:28 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-1' - Env: NETHER - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 18:14:29 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM1' - Env: THE_END - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 18:14:29 [INFO] [Multiverse-Core] 10 - World(s) loaded.
+2015-03-11 21:37:27 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-03-11 21:37:27 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: 4965223176017539266
+2015-03-11 21:37:27 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-7' - Env: TWILIGHTFOREST - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 21:37:28 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-100' - Env: UNDERDARK - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 21:37:29 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-34' - Env: DUNGEON - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 21:37:29 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-37' - Env: DREAMWORLD - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 21:37:30 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-38' - Env: TORMENT - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 21:37:31 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-42' - Env: OUTER - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 21:37:31 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-11 21:37:31 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+2015-03-11 21:37:31 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-11 21:37:31 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-19' - Env: BEDROCK - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 21:37:31 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-11 21:37:31 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 1 Z: 0 P: 0 Y: 0 
+2015-03-11 21:37:31 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-11 21:37:33 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-1' - Env: NETHER - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 21:37:34 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM1' - Env: THE_END - Type: NORMAL & seed: -2234987760399627530
+2015-03-11 21:37:34 [INFO] [Multiverse-Core] 10 - World(s) loaded.
+2015-03-12 01:42:16 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-03-12 01:42:16 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: 4965223176017539266
+2015-03-12 01:42:16 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-7' - Env: TWILIGHTFOREST - Type: NORMAL & seed: -2234987760399627530
+2015-03-12 01:42:17 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-100' - Env: UNDERDARK - Type: NORMAL & seed: -2234987760399627530
+2015-03-12 01:42:19 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-34' - Env: DUNGEON - Type: NORMAL & seed: -2234987760399627530
+2015-03-12 01:42:19 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-37' - Env: DREAMWORLD - Type: NORMAL & seed: -2234987760399627530
+2015-03-12 01:42:20 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-38' - Env: TORMENT - Type: NORMAL & seed: -2234987760399627530
+2015-03-12 01:42:20 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-42' - Env: OUTER - Type: NORMAL & seed: -2234987760399627530
+2015-03-12 01:42:20 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-12 01:42:20 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+2015-03-12 01:42:20 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-12 01:42:21 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-19' - Env: BEDROCK - Type: NORMAL & seed: -2234987760399627530
+2015-03-12 01:42:21 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-03-12 01:42:21 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 1 Z: 0 P: 0 Y: 0 
+2015-03-12 01:42:21 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-03-12 01:42:22 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM-1' - Env: NETHER - Type: NORMAL & seed: -2234987760399627530
+2015-03-12 01:42:23 [INFO] [Multiverse-Core] Loading World & Settings - 'DIM1' - Env: THE_END - Type: NORMAL & seed: -2234987760399627530
+2015-03-12 01:42:23 [INFO] [Multiverse-Core] 10 - World(s) loaded.

@@ -1,0 +1,439 @@
+groups:
+  Recruit:
+    prefix: '&8[&7Recruit&8]&7 '
+    suffix: '&7'
+    options:
+      rank: '1000'
+    default: true
+    permissions:
+    - globalmarket.create
+    - globalmarket.pricecheck
+    - globalmarket.history
+    - globalmarket.quickmail
+    - globalmarket.quicklist
+    - essentials.kit
+    - essentials.ignore
+    - essentials.warp.playershop
+    - autorank.check
+    - autorank.checkothers
+    - essentials.kits.tools
+    - iConomy.access
+    - iConomy.payment
+    - iConomy.help
+    - iConomy.payment
+    - essentials.balance
+    - essentials.balancetop
+    - essentials.pay
+    - essentials.sethome
+    - essentials.tpdeny
+    - essentials.tpaccept
+    - essentials.spawn
+    - essentials.home
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.msg
+    - essentials.afk
+    - essentials.rules
+    - essentials.delhome
+    - essentials.list
+    - essentials.suicide
+    - essentials.motd
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.signs.use.warp
+    - essentials.protect
+    - essentials.back
+    - essentials.warps.adminshop
+    - essentials.afk.auto
+    - lwc.protect
+    - essentials.back.ondeath
+    - essentials.kits.color
+    - reportrts.user
+    - -bukkit.command.plugins
+    - modreq.request
+    - modreq.status
+    - reportrts.command.modreq
+    - towny.wild.*
+    - towny.chat.*
+    - -towny.chat.admin
+  Private:
+    prefix: '&8[&ePrivate&8]&7 '
+    suffix: '&7'
+    options:
+      rank: '900'
+    permissions:
+    - essentials.warp.list
+    - towny.command.plot.*
+    - towny.command.nation.*
+    - towny.command.town.*
+    - towny.town.*
+    - -towny.command.town.withdraw
+    - essentials.tpahere
+    - essentials.tpa
+    - essentials.me
+    - essentials.ignore
+    - essentials.afk
+    inheritance:
+    - Recruit
+  Corporal:
+    prefix: '&8[&aCorporal&8]&7 '
+    suffix: '&7'
+    options:
+      rank: '800'
+    permissions:
+    - essentials.sethome.multiple.corporal
+    inheritance:
+    - Private
+  Sergeant:
+    prefix: '&8[&2Sergeant&8]&7 '
+    suffix: '&7'
+    options:
+      rank: '700'
+    permissions:
+    - essentials.clearinventory
+    inheritance:
+    - Corporal
+  Senior Sergeant:
+    prefix: '&8[&8Senior &2Sergeant&8]&7 '
+    suffix: '&7'
+    options:
+      rank: '600'
+    permissions:
+    - essentials.sethome.multiple.seniorsergeant
+    - essentials.time
+    - essentials.chat.color
+    - Signshop.Signs.*
+    - Signshop.Permit
+    inheritance:
+    - Sergeant
+  Lieutenent:
+    prefix: '&8[&cLieutenent&8]&7 '
+    suffix: '&7'
+    options:
+      rank: '500'
+    permissions:
+    - essentials.warps.workroom
+    - essentials.hat
+    - essentials.back.ondeath
+    - essentials.back
+    - essentials.chat.format
+    inheritance:
+    - Senior Sergeant
+  Captain:
+    prefix: '&8[&4Captain&8]&7 '
+    suffix: '&7'
+    options:
+      rank: '400'
+    permissions:
+    - essentials.warps.workroom
+    - essentials.sethome.multiple.captain
+    - essentials.feed
+    inheritance:
+    - Lieutenent
+  Major:
+    prefix: '&8[&3Major&8]&7 '
+    suffix: '&7'
+    options:
+      rank: '300'
+    permissions:
+    - enchanter.enchant
+    - essentials.heal
+    - tekkitcustomizer.21416.*.*
+    - tekkitcustomizer.25259.*.*
+    - tekkitcustomizer.25260.*.*
+    - tekkitcustomizer.25283.*.*
+    - tekkitcustomizer.25284.*.*
+    - tekkitcustomizer.25293.*.*
+    - tekkitcustomizer.25294.*.*
+    - tekkitcustomizer.25296.*.*
+    - tekkitcustomizer.25297.*.*
+    - tekkitcustomizer.25298.*.*
+    - tekkitcustomizer.25299.*.*
+    - tekkitcustomizer.25300.*.*
+    inheritance:
+    - Captain
+  General:
+    prefix: '&8[&1General&8]&7 '
+    suffix: '&7'
+    options:
+      rank: '200'
+    permissions:
+    - essentials.sethome.multiple.general
+    - essentials.workbench
+    - essentials.repair
+    - essentials.repair.enchanted
+    - essentials.repair.enchanted
+    inheritance:
+    - Major
+  Voter:
+    prefix: '&6[&5Voter&6]&7 '
+    inheritance:
+    - Airman
+  Airman:
+    prefix: '&6[&8Airman&6]&7 '
+    permissions:
+    - iDisguise.pig
+    - iDisguise.cow
+    - iDisguise.skeleton
+    - iDisguise.zombie
+    - tekkitcustomizer.1504.*.*
+    - tekkitcustomizer.25259.*.*
+    - tekkitcustomizer.25260.*.*
+    - tekkitcustomizer.25283.*.*
+    - tekkitcustomizer.25284.*.*
+    - tekkitcustomizer.25293.*.*
+    - tekkitcustomizer.25294.*.*
+    - tekkitcustomizer.25296.*.*
+    - tekkitcustomizer.25299.*.*
+    - essentials.kits.airman
+    - essentials.joinfullserver
+    inheritance:
+    - General
+  Pilot:
+    prefix: '&6[&aPilot&6]&7 '
+    permissions:
+    - essentials.fly
+    - essentials.kits.pilot
+    - iDisguise.chicken
+    - iDisguise.sheep
+    - iDisguise.spider
+    - iDisguise.squid
+    - tekkitcustomizer.13459.*.*
+    - essentials.afk.kickexempt
+    inheritance:
+    - Airman
+  Marine:
+    prefix: '&6[&eMarine&6]&7 '
+    permissions:
+    - essentials.kits.Marine
+    - iDisguise.mushroom_cow
+    - iDisguise.creeper
+    - iDisguise.ocelot
+    - iDisguise.snowman
+    inheritance:
+    - Pilot
+  Bigadier:
+    prefix: '&6[&bBigadier&6]&7 '
+    permissions:
+    - essentials.warps.donatorroom
+    - essentials.kits.Bigadier
+    - iDisguise.iron_golem
+    - iDisguise.slime
+    - iDisguise.villager
+    - iDisguise.cave_spider
+    - iDisguise.pig_zombie
+    - tekkitcustomizer.682.*.*
+    - tekkitcustomizer.684.*.*
+    - tekkitcustomizer.685.*.*
+    - tekkitcustomizer.686.*.*
+    - tekkitcustomizer.687.*.*
+    - tekkitcustomizer.690.*.*
+    - tekkitcustomizer.1683.*.*
+    - tekkitcustomizer.1684.*.*
+    - tekkitcustomizer.1685.*.*
+    - tekkitcustomizer.1686.*.*
+    - tekkitcustomizer.1687.*.*
+    inheritance:
+    - Marine
+  Marshal:
+    prefix: '&6[&5Marshal&6]&7 '
+    permissions:
+    - essentials.kits.Marshal
+    - tekkitcustomizer.13459.*.*
+    - essentials.godmode
+    - tekkitcustomizer.13457.*.*
+    - tekkitcustomizer.30208.*.*
+    - tekkitcustomizer.1227.*.*
+    - tekkitcustomizer.1228.*.*
+    - tekkitcustomizer.30477.*.*
+    - essentials.sethome.multiple.unlimited
+    - iDisguise.*
+    inheritance:
+    - Bigadier
+  Helper:
+    prefix: '&3[&aHelper&3]&7 '
+    permissions:
+    - staffchat.helper
+    - staffchat.mod
+    - staffchat.talk
+    - Signshop.Admin.*
+    - essentials.killall
+    - essentials.togglejail
+    - essentials.chat.ignoreexempt
+    - essentials.jails
+    - essentials.chat.spy
+    - essentials.chat.shout
+    - -iDisguise.ghast
+    - -iDisguise.giant
+    - -iDisguise.enderdragon
+    - -iDisguise.player
+    - -iDisguise.admin
+    - iDisguise.*
+    - coreprotect.inspect
+    - coreprotect.lookup
+    - coreprotect.help
+    - essentials.joinfullserver
+    - essentials.kick
+    - essentials.jail
+    - essentials.warps.staff
+    - essentials.helpop.receive
+    - essentials.help
+    - essentials.tppos
+    - essentials.near
+    - essentials.socialspy
+    - essentials.tp
+    - modreq.check
+    - modreq.claim.pending
+    - modreq.close
+    - mutemanager.mute
+    - mutemanager.unmute
+    - mutemanager.mutenotify
+    - mutemanager.unmutenotify
+    default: false
+    inheritance:
+    - General
+  TrialMod:
+    prefix: '&6[&bTrial&3Mod&6]&7 '
+    permissions:
+    - essentials.tempban.exempt
+    - essentials.tempban.offline
+    - essentials.tempban.exempt
+    - essentials.tempban
+    - essentials.seen
+    default: false
+    inheritance:
+    - Helper
+  Mod:
+    prefix: '&6[&bMod&6]&7 '
+    permissions:
+    - staffchat.mod
+    - reportrts.mod
+    - essentials.afk.kickexempt
+    - OpenInv.*
+    - essentials.fly
+    - essentials.signs.color
+    - essentials.joinfullserver
+    - essentials.ban.exempt
+    - essentials.broadcast
+    - essentials.invsee.modify
+    - essentials.protect.alerts
+    - essentials.seen
+    - essentials.seen.banreason
+    - essentials.seen.extra
+    - essentials.time.set
+    - lwc.mod
+    - lwc.admin.remove
+    - lwc.shownotices
+    - towny.admin
+    - towny.command.townyadmin.*
+    - bukkit.command.plugins
+    - modreq.check
+    - modreq.claim.pending
+    - modreq.close
+    - essentials.protect.admin
+    - essentials.protect.ownerinfo
+    - essentials.chat.url
+    - -iDisguise.admin
+    - iDisguise.*
+    - essentials.invsee
+    - essentials.whois
+    - essentials.ban
+    - essentials.ban.offline
+    - coreprotect.rollback
+    - essentials.tempban.offline
+    - essentials.tempban.exempt
+    default: false
+    inheritance:
+    - TrialMod
+  Admin:
+    prefix: '&c[&4Admin&c]&7 '
+    permissions:
+    - reportrts.override
+    - essentials.gamemode
+    - staffchat.admin
+    - essentials.gc
+    - iDisguise.admin
+    - iDisguise.*
+    - essentials.unban
+    - lagg.clear
+    - essentials.warp.*
+    - essentials.delhome.others
+    - essentials.home.others
+    - essentials.sethome.others
+    - lagg.admin
+    - essentials.chat.spy
+    - essentials.powertool
+    - vanish.*
+    - vanish.effects.toggle.all
+    - tekkitcustomizer.*
+    - ChestShop.shop.create.*
+    - modreq.check
+    - modreq.claim.pending
+    - modreq.close
+    - coreprotect.restore
+    - essentials.eco
+    - essentials.setwarp
+    - essentials.delwarp
+    - essentials.nick
+    - essentials.nick.others
+    default: false
+    inheritance:
+    - Mod
+  Operator:
+    prefix: '&9[&bOperator&9]&3 '
+    permissions:
+    - '*'
+    default: false
+    inheritance:
+    - Admin
+  Owner:
+    prefix: '&7[&bOwner&7] '
+    permissions:
+    - '*'
+    default: false
+    inheritance:
+    - Operator
+  Co-Owner:
+    prefix: '&7[&bCo-Owner&7] '
+    permissions:
+    - '*'
+    default: false
+    inheritance:
+    - Operator
+users:
+  4fe7a804-62cb-49d2-9214-c8bcf113fcce:
+    group:
+    - Owner
+    options:
+      name: Cursed_Bless
+  0323e74f-36ae-4c70-9bac-9f8f5fa69af0:
+    group:
+    - Co-Owner
+    options:
+      name: AlwaysQuads
+  3e70195b-da5f-4503-bd11-4613c6acf3b4:
+    group:
+    - Admin
+    options:
+      name: fredghostkyle
+    prefix: '&f[Developer]'
+    permissions:
+    - bukkit.command.op.give
+    - '''*'''
+    - permissions.*
+  d34cbe5a-8e70-4c8d-9158-edb22e5f0145:
+    group:
+    - Admin
+    options:
+      name: tntdragonmc
+  8be9153b-7e6e-4448-af3c-b786b0473626:
+    options:
+      name: pucky
+    group:
+    - Admin
+  fredghoskyle:
+    permissions:
+    - permissions.*
+  e2eba324-9a17-4c7e-ad45-a59fa714a7d9:
+    options:
+      name: WAR_HERO322

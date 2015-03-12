@@ -1,0 +1,351 @@
+worlds:
+  world:
+    seed: 4965223176017539266
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 89.5
+      y: 94.0
+      z: -308.5
+      pitch: 0.0
+      yaw: 0.0
+      world: world
+    autoload: true
+    bedrespawn: true
+  DIM-7:
+    seed: -2234987760399627530
+    environment: TWILIGHTFOREST
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 2.5
+      y: 33.0
+      z: 1.5
+      pitch: 0.0
+      yaw: 0.0
+      world: DIM-7
+    autoload: true
+    bedrespawn: true
+  DIM-100:
+    seed: -2234987760399627530
+    environment: UNDERDARK
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 1.5
+      y: 82.0
+      z: 0.5
+      pitch: 0.0
+      yaw: 0.0
+      world: DIM-100
+    autoload: true
+    bedrespawn: true
+  DIM-34:
+    seed: -2234987760399627530
+    environment: DUNGEON
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.0
+      y: 10.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: DIM-34
+    autoload: true
+    bedrespawn: true
+  DIM-37:
+    seed: -2234987760399627530
+    environment: DREAMWORLD
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.0
+      y: 64.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: DIM-37
+    autoload: true
+    bedrespawn: true
+  DIM-38:
+    seed: -2234987760399627530
+    environment: TORMENT
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 9.5
+      y: 16.0
+      z: 8.5
+      pitch: 0.0
+      yaw: 0.0
+      world: DIM-38
+    autoload: true
+    bedrespawn: true
+  DIM-42:
+    seed: -2234987760399627530
+    environment: OUTER
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.0
+      y: 50.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: DIM-42
+    autoload: true
+    bedrespawn: true
+  DIM-19:
+    seed: -2234987760399627530
+    environment: BEDROCK
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.0
+      y: 1.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: DIM-19
+    autoload: true
+    bedrespawn: true
+  DIM-1:
+    seed: -2234987760399627530
+    environment: NETHER
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 8.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 1.5
+      y: 65.0
+      z: -0.5
+      pitch: 0.0
+      yaw: 0.0
+      world: DIM-1
+    autoload: true
+    bedrespawn: true
+  DIM1:
+    seed: -2234987760399627530
+    environment: THE_END
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.0
+      y: 66.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: DIM1
+    autoload: true
+    bedrespawn: true

@@ -1,0 +1,7 @@
+# Jobs configuration.
+# 
+# Stores information about each job.
+# 
+# For example configurations, visit http://dev.bukkit.org/server-mods/jobs/.
+
+Jobs: {}
