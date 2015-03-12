@@ -1,6 +1,11 @@
+#This was in the config originaly so I kept it there and pasted in the default one from Essential's GitHub page!
+
 plugin-channel: world_info
 inform-player: false
 encoding: UTF-8
+
+#START ORIGINAL 
+
 ############################################################
 # +------------------------------------------------------+ #
 # |                       Notes                          | #
