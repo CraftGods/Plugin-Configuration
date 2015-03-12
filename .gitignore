@@ -1,1 +1,7 @@
 #nothing at the moment
+/Essentials/userdata/*
+/SignShop/db/*
+/Towny/backup/*
+/Towny/data/*
+/towny/logs/*
+/WorldGuard/worlds/*
