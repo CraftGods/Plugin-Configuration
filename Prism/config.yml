@@ -15,7 +15,7 @@ prism:
   mysql:
     hostname: 127.0.0.1
     username: root
-    password: ''
+    password: '' #DO NOT PUT THIS IN THE GITHUB!!!!!!!!!!!!!!!!!!!!
     database: minecraft
     prefix: prism_
     port: '3306'
