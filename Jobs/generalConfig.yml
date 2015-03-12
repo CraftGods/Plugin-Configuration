@@ -11,7 +11,7 @@ locale-language: en
 storage-method: sqlite
 # Requires Mysql.
 mysql-username: root
-mysql-password: ''
+mysql-password: '' #DO NOT PUT THIS IN ON GITHUB!!!!! 
 mysql-hostname: localhost:3306
 mysql-database: minecraft
 mysql-table-prefix: jobs_
@@ -21,7 +21,7 @@ save-period: 10
 # Player data is always periodically auto-saved and autosaved during a clean shutdown.
 # Only enable this if you have a multi-server setup, or have a really good reason for enabling this.
 # Turning this on will decrease database performance.
-save-on-disconnect: false
+save-on-disconnect: true
 # Do all players get a message when somone goes up a skill level?
 broadcast-on-skill-up: false
 # Do all players get a message when somone goes up a level?
@@ -38,7 +38,7 @@ enable-pay-creative: false
 # Adds the Jobs xp recieved to the player's Minecraft XP bar
 add-xp-player: false
 # Modifys chat to add chat titles.  If you're using a chat manager, you may add the tag {jobs} to your chat format and disable this.
-modify-chat: true
+modify-chat: false
 # Changes how often, in seconds, players are paid out.  Default is 5 seconds.
 # Setting this too low may cause tick lag.  Increase this to improve economy performance (at the cost of delays in payment)
 economy-batch-delay: 5
