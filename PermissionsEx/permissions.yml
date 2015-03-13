@@ -2,7 +2,7 @@ groups:
   LostSoul:
     options:
       rank: '1000'
-      prefix: '[LostSoul] '
+      prefix: '&8[&7LostSoul&8]&f '
       suffix: '&7'
       default: true
     permissions:
@@ -44,7 +44,7 @@ groups:
   Mortal:
     options:
       rank: '900'
-      prefix: '[Mortal] '
+      prefix: '&8[&3Mortal&8]&f '
       suffix: '&7'
     permissions:
     - essentials.warp.list
@@ -63,7 +63,7 @@ groups:
   Priest:
     options:
       rank: '800'
-      prefix: '[Priest] '
+      prefix: '&8[&9Priest&8]&f '
       suffix: '&7'
     permissions:
     - essentials.sethome.multiple.10
@@ -72,7 +72,7 @@ groups:
   HighPriest:
     options:
       rank: '700'
-      prefix: '[HighPriest] '
+      prefix: '&8[&aHigh&9Priest&8]&f '
       suffix: '&7'
     permissions:
     - essentials.clearinventory
@@ -81,7 +81,7 @@ groups:
   Hero:
     options:
       rank: '600'
-      prefix: '[Hero] '
+      prefix: '&8[&aHero&8]&f '
       suffix: '&7'
     permissions:
     - essentials.sethome.multiple.25
@@ -94,7 +94,7 @@ groups:
   Immortal:
     options:
       rank: '500'
-      prefix: '[Immortal] '
+      prefix: '&8[&4Immortal&8]&f '
       suffix: '&7'
     permissions:
     - essentials.hat
@@ -106,7 +106,7 @@ groups:
   Demi-god:
     options:
       rank: '400'
-      prefix: '[Demi-god] '
+      prefix: '&8[&cDemi-&6God&8]&f '
       suffix: '&7'
     permissions:
     - essentials.sethome.multiple.35
@@ -117,7 +117,7 @@ groups:
   god:
     options:
       rank: '300'
-      prefix: '[god] '
+      prefix: '&8[&6God&8]&f '
       suffix: '&7'
     permissions:
     - essentials.heal
@@ -126,7 +126,7 @@ groups:
   Titan:
     options:
       rank: '200'
-      prefix: '[Titan] '
+      prefix: '&8[&5Titan&8]&f '
       suffix: '&7'
     permissions:
     - essentials.sethome.multiple.50
