@@ -5,8 +5,11 @@
 /Towny/data/*
 /towny/logs/*
 /WorldGuard/worlds/*
+/Multiverse-Core/debug.log
+/Jobs/jobs.sqlite.db
 AsyncWorldEdit.jar
 AutoSaveWorld.jar
+BanItem.jar
 Essentials.jar
 EssentialsChat.jar
 EssentialsSpawn.jar
