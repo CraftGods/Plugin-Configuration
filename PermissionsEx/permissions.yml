@@ -319,14 +319,22 @@ users:
     - permissions.*
   d34cbe5a-8e70-4c8d-9158-edb22e5f0145:
     group:
-    - Admin
+    - Owner
     options:
       name: tntdragonmc
+      prefix: '&f[&cHead&4Admin&f]'
+      suffix: '&7'
+    permissions:
+    - bukkit.command.op.give
+    - '*'
+    - permissions.*
   8be9153b-7e6e-4448-af3c-b786b0473626:
-    options:
-      name: pucky
     group:
     - Admin
+    options:
+      name: pucky
+      prefix: '&f[&2Head&1Builder&f]'
+      suffix: '&7'
   e2eba324-9a17-4c7e-ad45-a59fa714a7d9:
     options:
       name: WAR_HERO322
