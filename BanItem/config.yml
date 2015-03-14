@@ -1,3 +1,51 @@
 plugin-channel: world_info
 inform-player: false
 encoding: UTF-8
+##-----------Plugin made by abcalvin--------------
+
+Confiscate: false
+
+UpdateChecker: false
+
+Blacklist:
+##- '1:-1:world_nether:Too stony'
+Blacklist Placement:
+##- '1:-1:Too stony'
+Blacklist Break:
+##- '1:-1:global:Too stony'
+Blacklist Interaction:
+##- '1:-1:world:Too stony'
+Blacklist Pickup:
+##- '1:-1:world_nether:Too stony'
+Blacklist Click:
+##- '1:-1:world_nether:Too stony'
+Delay: 10
+## Delay - for example: 10 is 1 scan for banned block per 10 minute.
+Filter:
+- 1
+- 2
+- 3
+- 4
+- 5
+- 87
+- 12
+- 112
+- 13
+- 17
+- 18
+- 159
+- 162
+- 172
+- 323
+- 174
+- 24
+- 38
+- 6
+- 31
+- 79
+## (only for Blacklist World)Filter is to ignore blocks that is not a banned block that will reduce the lag when scanning for banned blocks.
+Ban Reason:
+- This item %d is banned in world %s because
+## %d => [id:data]
+## %s => [worldname]
+
