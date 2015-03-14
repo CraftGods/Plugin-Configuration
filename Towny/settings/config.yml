@@ -719,11 +719,11 @@ economy:
  
   new_expand:
     # How much it costs to start a nation.
-    price_new_nation: '1000.0'
+    price_new_nation: '500.0'
     # How much it costs to start a town.
-    price_new_town: '250.0'
+    price_new_town: '100.0'
     # How much it costs to make an outpost. An outpost isn't limited to being on the edge of town.
-    price_outpost: '500.0'
+    price_outpost: '250.0'
     # The price for a town to expand one townblock.
     price_claim_townblock: '25.0'
     # How much it costs a player to buy extra blocks.
