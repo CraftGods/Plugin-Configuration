@@ -11,7 +11,7 @@ locale-language: en
 storage-method: sqlite
 # Requires Mysql.
 mysql-username: root
-mysql-password: '' #DO NOT PUT THIS IN ON GITHUB!!!!! 
+mysql-password: ''
 mysql-hostname: localhost:3306
 mysql-database: minecraft
 mysql-table-prefix: jobs_
