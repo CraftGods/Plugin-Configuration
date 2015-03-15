@@ -13,6 +13,7 @@ groups:
     - globalmarket.quicklist
     - essentials.kit
     - essentials.ignore
+    - towny.wild.*
     - essentials.warp.playershop
     - autorank.check
     - autorank.checkothers
@@ -53,9 +54,6 @@ groups:
     - modreq.request
     - modreq.status
     - reportrts.command.modreq
-    - towny.wild.*
-    - towny.chat.*
-    - -towny.chat.admin
   Private:
     prefix: '&8[&ePrivate&8]&7 '
     suffix: '&7'
@@ -400,40 +398,3 @@ groups:
     default: false
     inheritance:
     - Operator
-users:
-  4fe7a804-62cb-49d2-9214-c8bcf113fcce:
-    group:
-    - Owner
-    options:
-      name: Cursed_Bless
-  0323e74f-36ae-4c70-9bac-9f8f5fa69af0:
-    group:
-    - Co-Owner
-    options:
-      name: AlwaysQuads
-  3e70195b-da5f-4503-bd11-4613c6acf3b4:
-    group:
-    - Admin
-    options:
-      name: fredghostkyle
-    prefix: '&f[Developer]'
-    permissions:
-    - bukkit.command.op.give
-    - '''*'''
-    - permissions.*
-  d34cbe5a-8e70-4c8d-9158-edb22e5f0145:
-    group:
-    - Admin
-    options:
-      name: tntdragonmc
-  8be9153b-7e6e-4448-af3c-b786b0473626:
-    options:
-      name: pucky
-    group:
-    - Admin
-  fredghoskyle:
-    permissions:
-    - permissions.*
-  e2eba324-9a17-4c7e-ad45-a59fa714a7d9:
-    options:
-      name: WAR_HERO322
